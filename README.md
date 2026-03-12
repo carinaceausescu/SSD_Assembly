@@ -1,4 +1,4 @@
-## Allocator de Memorie — Proiect Assembly
+# Allocator de Memorie — Proiect Assembly
 
 ## Descriere Proiect
 Acest proiect implementează un **simulator de gestionare a memoriei**, inspirat de modul în care sunt administrate blocurile într-un dispozitiv de tip SSD. Programul este scris în Assembly (sintaxă AT&T / GAS) și gestionează un spațiu de memorie liniar, în care blocurile pot fi alocate, căutate, șterse și compactate.
